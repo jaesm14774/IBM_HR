@@ -1,0 +1,116 @@
+## 變數描述
+Age: 年紀
+
+Attrition: 員工流失(自主離職?)
+
+BusinessTravel: 出差頻率
+
+DailyRate: ?
+
+Department: 部門
+
+DistanceFromHome: 離家距離
+
+Education: 教育程度
+
+EducationField: 教育領域
+
+EmployeeCount: X
+
+EmployeeNumber: 員工編號(X)
+
+EnvironmentSatisfaction: 環境滿意度
+
+Gender: 性別
+
+HourlyRate: ?
+
+JobInvolvement: 工作參與程度
+
+JobLevel: 職缺位階
+
+JobRole: 職缺角色
+
+JobSatisfaction: 職缺滿意度
+
+MaritalStatus: 感情狀態
+
+MonthlyIncome: 月收入
+
+MonthlyRate: ?
+
+NumCompaniesWorked: 過去服務過幾家公司
+
+Over18: 是否滿18歲
+
+OverTime: 工作是否超時
+
+PercentSalaryHike: 加薪幅度
+
+PerformanceRating: 工作表現
+
+RelationshipSatisfaction: 人際關係
+
+StandardHours: X
+
+StockOptionLevel: 股票期權
+
+TotalWorkingYears: 總年資
+
+TrainingTimesLastYear: 去年受訓時間
+
+WorkLifeBalance: 生活與工作的平衡
+
+YearsAtCompany: 這家公司的年資
+
+YearsInCurrentRole: 目前擔任該職缺幾年了
+
+YearsSinceLastPromotion: 距離上次升遷過了多久
+
+YearsWithCurrManager: 跟現在主管的年資
+
+
+-------------------------------------------------
+
+Education
+1 'Below College'
+2 'College'
+3 'Bachelor'
+4 'Master'
+5 'Doctor'
+
+EnvironmentSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+JobInvolvement
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+JobSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+PerformanceRating
+1 'Low'
+2 'Good'
+3 'Excellent'
+4 'Outstanding'
+
+RelationshipSatisfaction
+1 'Low'
+2 'Medium'
+3 'High'
+4 'Very High'
+
+WorkLifeBalance
+1 'Bad'
+2 'Good'
+3 'Better'
+4 'Best'
